@@ -1,0 +1,20 @@
+.imagem__carrossel {
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
+    
+}
+.imagem__carrossel2 {
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
+}
+.imagem__carrossel3{
+    height: 400px;
+    object-position: 0 20%;
+}
+@media screen and ( min-width: 0) {
+    .carrossel {
+        width: 100vw;
+    }
+}

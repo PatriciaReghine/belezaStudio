@@ -1,0 +1,13 @@
+.rodape {
+    background-color: var(--fundo-básico);
+    height: 200px;
+}
+.titulo__rodape {
+    color: #ffffff;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    font-weight: 200;
+    padding-top: 100px;
+    text-align: center;
+    text-shadow: white 0.1em 0.1em 0.2em;
+}

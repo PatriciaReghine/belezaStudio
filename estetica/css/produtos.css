@@ -1,0 +1,15 @@
+.titulo__produtos {
+    background: #000000;
+    color: 	var(--titulo-destaque);
+    font-family: var(--familia-titulo);
+    font-size: 2.5rem;
+    margin-top: 5%;
+    text-align: center;
+    text-shadow: 0.1em 0.1em #FFC0CB;
+}
+.corpo__produtos {
+    font-family: var(--familia-corpo);
+    font-size: 1.5rem;
+    margin-top: 5%;
+    text-align: center;
+}

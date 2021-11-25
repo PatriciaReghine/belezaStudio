@@ -1,0 +1,54 @@
+.contato__local {
+    background-color: var(--fundo-delicado);
+}
+.titulo__local {
+    font-family: var(--familia-titulo);
+    font-size: 2.5rem;
+    margin-top: 3%;
+    text-align: center;
+}
+.titulo__form {
+    font-family: var(--familia-titulo);
+    font-size: 2.5rem;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.corpo__forms {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.enviar {
+    background-color: #d3caca;
+    
+}
+.enviar:hover {
+    transition: 3s;
+    background-color: #FF1493;
+    color: #ffffff;
+}
+@media screen and ( min-width: 0) {
+   .mapa {
+       margin-left: 6%;
+       width: 300px;
+       height: 200px;
+   }
+   .titulo__local {
+       padding-top: 2%;
+   }
+}
+@media screen and (min-width: 768px) {
+    .mapa {
+        margin-left: 12%;
+        height: 250px;
+        width: 500px;
+    }
+}
+@media screen and(min-width: 992px) {
+    .mapa { 
+     height:"450px";
+    margin-left: 15%;
+    margin-top: 5%;
+    width:"1000px";
+    }
+}

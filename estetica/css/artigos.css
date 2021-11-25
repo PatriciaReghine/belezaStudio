@@ -1,0 +1,37 @@
+.artigo__produtos{
+   background-color: #FFF5EE;
+   
+}
+
+.titulo__artigos {
+    background-color: var(--fundo-básico);
+    color: var(--titulo-destaque);
+    font-family: var(--familia-titulo);
+    font-size: 2rem;
+    margin-top: 5%;
+    text-align: center;
+}
+.artigo__1 {
+    margin-left: 5%;
+    margin-top: 3%;
+
+}
+.artigos { 
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    vertical-align: top;
+    margin-bottom: 5%;
+    margin-left: 30%;
+    padding-left: 5%;
+}
+.artigo__produtos {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+}
+
+
+
